@@ -1,0 +1,59 @@
+﻿body {
+    font-size: 16px;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+    background-color: moccasin;
+    justify-content: center;
+}
+
+#monthTitle {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    background-image: url(https://i.imgur.com/2VGdpan.jpeg);
+    max-width: 1000px;
+    margin: 20px auto;
+    background-color: lightgrey;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 100px;
+    max-height: 100px;
+    color: white;
+}
+
+#filterButtonContainer {
+    display: flex;
+    justify-content: center;
+}
+
+section.event-list {
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    margin: 20px auto;
+    background-color: lightgrey;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 1000px;
+}
+
+
+article.event {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: 800px;
+    box-shadow: -1px 1px 5px 0px #555;
+    background-color: orange;
+}
+
+    article.event:nth-child(odd) {
+        background-color: olive;
+    }
+
+section.event-list article.event:nth-child(3n) {
+    background-color: beige;
+}
+
+@media screen and (max-width:375px) {
+}

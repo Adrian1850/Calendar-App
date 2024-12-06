@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Calendar App</title>
+    <link rel="stylesheet" href="../CalendarApp/_css/index.css" />
+</head>
+<body>
+    <main>
+        <header>
+            <h1 id="monthTitle">Loading..</h1>
+        </header>
+        <div id="filterButtonContainer"><button type="button" id="filterButton">Filter</button></div>
+        <section id="MyCalendar">
+            <section class="event-list"></section>
+        </section>
+    </main>
+
+    <footer>Loading...</footer>
+    <script type="module" src="../CalendarApp/_js/index.js"></script>
+    <script>
+
+        let monthNames = ["January", "February", "March", "April", "May", "June", "July",
+            "August", "September", "October", "November", "December"];
+
+        let monthTitle = document.getElementById('monthTitle');
+        let currentMonth = new Date().getMonth();
+
+        monthTitle.innerHTML = `${(monthNames[currentMonth])}`;
+
+    </script>
+</body>
+</html>
+
+

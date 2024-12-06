@@ -1,0 +1,95 @@
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\bin\Debug\net8.0\appsettings.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Ex2_Simple_Calendar_App.staticwebassets.runtime.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Ex2_Simple_Calendar_App.exe
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Ex2_Simple_Calendar_App.deps.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Ex2_Simple_Calendar_App.runtimeconfig.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Ex2_Simple_Calendar_App.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Ex2_Simple_Calendar_App.pdb
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets\msbuild.Ex2_Simple_Calendar_App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets\msbuild.build.Ex2_Simple_Calendar_App.props
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ex2_Simple_Calendar_App.props
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ex2_Simple_Calendar_App.props
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\scopedcss\bundle\Ex2_Simple_Calendar_App.styles.css
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simp.AD5636A8.Up2Date
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\refint\Ex2_Simple_Calendar_App.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.pdb
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.genruntimeconfig.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple Calendar App\Ex2_Simple_Calendar_App\obj\Debug\net8.0\ref\Ex2_Simple_Calendar_App.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Ex2_Simple_Calendar_App.staticwebassets.runtime.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Ex2_Simple_Calendar_App.exe
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Ex2_Simple_Calendar_App.deps.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Ex2_Simple_Calendar_App.runtimeconfig.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Ex2_Simple_Calendar_App.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Ex2_Simple_Calendar_App.pdb
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets\msbuild.Ex2_Simple_Calendar_App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets\msbuild.build.Ex2_Simple_Calendar_App.props
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ex2_Simple_Calendar_App.props
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ex2_Simple_Calendar_App.props
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\scopedcss\bundle\Ex2_Simple_Calendar_App.styles.css
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simp.AD5636A8.Up2Date
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\refint\Ex2_Simple_Calendar_App.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.pdb
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\Ex2_Simple_Calendar_App.genruntimeconfig.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App\obj\Debug\net8.0\ref\Ex2_Simple_Calendar_App.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\bin\Debug\net8.0\Ex2_Simple_Calendar_App.staticwebassets.runtime.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\bin\Debug\net8.0\Ex2_Simple_Calendar_App.exe
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\bin\Debug\net8.0\Ex2_Simple_Calendar_App.deps.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\bin\Debug\net8.0\Ex2_Simple_Calendar_App.runtimeconfig.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\bin\Debug\net8.0\Ex2_Simple_Calendar_App.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\bin\Debug\net8.0\Ex2_Simple_Calendar_App.pdb
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\Ex2_Simple_Calendar_App.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\Ex2_Simple_Calendar_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\Ex2_Simple_Calendar_App.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\Ex2_Simple_Calendar_App.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\Ex2_Simple_Calendar_App.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\Ex2_Simple_Calendar_App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\Ex2_Simple_Calendar_App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\staticwebassets\msbuild.Ex2_Simple_Calendar_App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\staticwebassets\msbuild.build.Ex2_Simple_Calendar_App.props
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ex2_Simple_Calendar_App.props
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ex2_Simple_Calendar_App.props
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\scopedcss\bundle\Ex2_Simple_Calendar_App.styles.css
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\Ex2_Simp.AD5636A8.Up2Date
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\Ex2_Simple_Calendar_App.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\refint\Ex2_Simple_Calendar_App.dll
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\Ex2_Simple_Calendar_App.pdb
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\Ex2_Simple_Calendar_App.genruntimeconfig.cache
+C:\Users\Adrian\Desktop\Web Apps\Ex2_Simple_Calendar_App - Copy\obj\Debug\net8.0\ref\Ex2_Simple_Calendar_App.dll

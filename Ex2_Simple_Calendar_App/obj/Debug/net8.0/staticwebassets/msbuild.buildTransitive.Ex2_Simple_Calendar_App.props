@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ex2_Simple_Calendar_App.props" />
+</Project>

@@ -1,0 +1,13 @@
+<section class="event-list">
+    {{#events}}
+    <article class='event' data-click="doStuff">
+        <div class="details">
+            <h3 class="summary">{{summary}}</h3>
+            <strong class="date">{{eventDate}}</strong>
+            <em class="location">{{location}}</em>
+            <hr>
+            <p>{{{description}}}</p>
+        </div>
+    </article>
+    {{/events}}
+</section>

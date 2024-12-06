@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\Week09\**" />
+    <Content Remove="wwwroot\Week09\**" />
+    <EmbeddedResource Remove="wwwroot\Week09\**" />
+    <None Remove="wwwroot\Week09\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="wwwroot\Controllers\WeatherForecastController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\CalendarApp\index.html" />
+    <None Include="wwwroot\CalendarApp\views\event-list.html" />
+    <None Include="wwwroot\CalendarApp\_css\index.css" />
+    <None Include="wwwroot\CalendarApp\_js\app\app.js" />
+    <None Include="wwwroot\CalendarApp\_js\index.js" />
+    <None Include="wwwroot\CalendarApp\_js\libs\mustache.js" />
+    <None Include="wwwroot\CalendarApp\_js\models\CalendarEvent.js" />
+    <None Include="wwwroot\CalendarApp\_js\models\CalendarEventList.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+</Project>

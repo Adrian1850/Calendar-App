@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Adrian\\Desktop\\Web Apps\\Ex2_Simple_Calendar_App\\wwwroot\\CalendarApp\\_css\\index.css",
+      "PackagePath": "staticwebassets\\CalendarApp\\_css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\Adrian\\Desktop\\Web Apps\\Ex2_Simple_Calendar_App\\wwwroot\\CalendarApp\\_js\\app\\app.js",
+      "PackagePath": "staticwebassets\\CalendarApp\\_js\\app\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\Adrian\\Desktop\\Web Apps\\Ex2_Simple_Calendar_App\\wwwroot\\CalendarApp\\_js\\index.js",
+      "PackagePath": "staticwebassets\\CalendarApp\\_js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Adrian\\Desktop\\Web Apps\\Ex2_Simple_Calendar_App\\wwwroot\\CalendarApp\\_js\\libs\\mustache.js",
+      "PackagePath": "staticwebassets\\CalendarApp\\_js\\libs\\mustache.js"
+    },
+    {
+      "Id": "C:\\Users\\Adrian\\Desktop\\Web Apps\\Ex2_Simple_Calendar_App\\wwwroot\\CalendarApp\\_js\\models\\CalendarEvent.js",
+      "PackagePath": "staticwebassets\\CalendarApp\\_js\\models\\CalendarEvent.js"
+    },
+    {
+      "Id": "C:\\Users\\Adrian\\Desktop\\Web Apps\\Ex2_Simple_Calendar_App\\wwwroot\\CalendarApp\\_js\\models\\CalendarEventList.js",
+      "PackagePath": "staticwebassets\\CalendarApp\\_js\\models\\CalendarEventList.js"
+    },
+    {
+      "Id": "C:\\Users\\Adrian\\Desktop\\Web Apps\\Ex2_Simple_Calendar_App\\wwwroot\\CalendarApp\\index.html",
+      "PackagePath": "staticwebassets\\CalendarApp\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Adrian\\Desktop\\Web Apps\\Ex2_Simple_Calendar_App\\wwwroot\\CalendarApp\\views\\event-list.html",
+      "PackagePath": "staticwebassets\\CalendarApp\\views\\event-list.html"
+    },
+    {
+      "Id": "C:\\Users\\Adrian\\Desktop\\Web Apps\\Ex2_Simple_Calendar_App\\wwwroot\\Controllers\\WeatherForecastController.cs",
+      "PackagePath": "staticwebassets\\Controllers\\WeatherForecastController.cs"
+    },
+    {
+      "Id": "C:\\Users\\Adrian\\Desktop\\Web Apps\\Ex2_Simple_Calendar_App\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\Adrian\\Desktop\\Web Apps\\Ex2_Simple_Calendar_App\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ex2_Simple_Calendar_App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ex2_Simple_Calendar_App.props",
+      "PackagePath": "build\\Ex2_Simple_Calendar_App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ex2_Simple_Calendar_App.props",
+      "PackagePath": "buildMultiTargeting\\Ex2_Simple_Calendar_App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ex2_Simple_Calendar_App.props",
+      "PackagePath": "buildTransitive\\Ex2_Simple_Calendar_App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
